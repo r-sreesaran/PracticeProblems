@@ -1,39 +1,40 @@
-package main.java.arrays;
-
+import java.util.*;
+import java.lang.*;
+import java.io.*;
 import java.math.BigInteger;
 
-class LittleElephantAndCandies {
+/* Name of the class has to be "Main" only if the class is public. */
+class Codechef
+{
+    public static void main (String[] args) throws java.lang.Exception
+    {
 
-     static void isItpossible(String params[],String candiesSplit[]) {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        for(int j=0;j<t;j++)
+        {
+            BigInteger sum=BigInteger.valueOf(0);
+            int N=sc.nextInt();
+            //long C=sc.nextLong();
+            BigInteger C=sc.nextBigInteger();
+            //int a[]=new int[N];
+            for(int i=0;i<N;i++)
+            {
+                sum=sum.add(BigInteger.valueOf(sc.nextInt()));
+            }
 
-        BigInteger candy = BigInteger.valueOf(Long.getLong(params[0]));
-        BigInteger elephants = BigInteger.valueOf(Long.getLong(params[1]));
-        BigInteger totalCandies=BigInteger.valueOf(0);
-        if(candy.compareTo(elephants)<=0) {
-            System.out.println("No");
-            return;
+            int c;
+            c=C.compareTo(sum);
+
+            if(c==1 || c==0)
+            {
+                System.out.println("Yes");
+            }
+            else
+            {
+                System.out.println("No");
+            }
+
         }
-
-        for(String value: candiesSplit) {
-            totalCandies = totalCandies.add(BigInteger.valueOf(Long.valueOf(value))) ;
-        }
-        if(totalCandies.compareTo(elephants)>=0) {
-            System.out.println("No");
-            return;
-        }
-        System.out.println("Yes");
-    }
-
-    public static void main(String args[]) {
-        BigInteger totalNoOfTestcases=BigInteger.valueOf(Long.valueOf(args[0]));
-        String params[] = args[1].split("");
-        String candiesSplit[] = args[2].split("");
-
-        if(BigInteger.valueOf(candiesSplit.length).compareTo(BigInteger.valueOf(Long.valueOf(params[1])))<0) {
-            System.out.println("No");
-            return;
-        }
-        isItpossible(params,candiesSplit);
-
     }
 }
