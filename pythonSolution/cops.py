@@ -1,15 +1,11 @@
-t = int(input())
-
-
-for j in range(t):
-    value = []
-    for a in range(100):
-        value.append('yes')
-    M,x,y= map(int,input().split())
-    val = x*y
-    h = list(map(int, input().split()))
-    for i in range(0,M):
-        for k in range(h[i]-val-1,h[i]+val):
-            if(k>-1 and k<100):
-               value[k]='no'
-    print(value.count('yes'))
+n = int(input())
+c = set(range(1,101))
+for _ in range(n):
+    a = set()
+    m,sp,t = map(int, input().split())
+    M = list(map(int, input().split()))
+    for i in range(m):
+        b = set(range(M[i]-(sp*t),M[i]+(sp*t)+1))
+        a = a.union(b)
+        a = a.intersection(c)
+    print(100-len(a))
