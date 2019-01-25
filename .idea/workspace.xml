@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSolution/NextGreatestNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSolution/countSubstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSolution/streetParade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/interfaceChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataprocessing/beans/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataprocessing/processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/JsonProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/XmlProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataprocessing/processors/resources/json/book.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataprocessing/processors/resources/xml/data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataprocessing/reusables/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeChefPracticeProblems/main/java/arrays/LittleElephantAndCandies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/cops.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/cops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/JsonProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/JsonProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataprocessing/processors/resources/json/book.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataprocessing/processors/resources/xml/data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataprocessing/reusables/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataprocessing/reusables/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataprocessing/processors/XmlProcessor.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -104,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/XmlProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="271">
-              <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#189#190#0" expanded="true" />
@@ -114,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Location.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Location.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/reusables/Location.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -126,13 +103,31 @@
       <file leaf-file-name="JsonProcessor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/JsonProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+            <state relative-caret-position="203">
+              <caret line="17" column="61" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#218#219#0" expanded="true" />
                 <element signature="e#245#246#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/beans/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/json/book.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -194,8 +189,9 @@
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/resources/json/book.json" />
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/XmlProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/XmlProcessor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/JsonProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/reusables/Location.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/JsonProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/json/book.json" />
       </list>
     </option>
   </component>
@@ -267,7 +263,31 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="reusables" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
@@ -323,9 +343,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XmlProcessor">
+  <component name="RunManager" selected="Application.JsonProcessor">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="JsonProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataprocessing.processors.impl.JsonProcessor" />
+      <module name="CodeChefPracticeProblems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataprocessing.processors.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="LittleElephantAndCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.arrays.LittleElephantAndCandies" />
@@ -434,9 +465,11 @@
       <item itemvalue="Application.Threads" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.XmlProcessor" />
+      <item itemvalue="Application.JsonProcessor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JsonProcessor" />
         <item itemvalue="Application.XmlProcessor" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Threads" />
@@ -477,12 +510,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32763532" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32763532" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25201938" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -595,20 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/beans/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Interface/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -636,22 +655,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/JsonProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/XmlProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
-          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#189#190#0" expanded="true" />
@@ -662,8 +669,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/reusables/Location.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/JsonProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/beans/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/json/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
