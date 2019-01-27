@@ -32,5 +32,6 @@ public class XmlProcessor<T> implements processor
     public static void main(String[] args) {
         XmlProcessor processor = new XmlProcessor();
         processor.proccessdata(Location.resource+"/xml/data.xml");
+
     }
 }
