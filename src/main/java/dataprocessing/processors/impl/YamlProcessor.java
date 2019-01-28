@@ -1,23 +1,22 @@
 package dataprocessing.processors.impl;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.dataformat.yaml.YAMLFactory;
 import dataprocessing.beans.Book;
-import dataprocessing.beans.MainObject;
 import dataprocessing.processor;
 import dataprocessing.reusables.Location;
 
 import java.io.File;
 import java.io.IOException;
 
-public class JsonProcessor implements processor {
-
+public class YamlProcessor<T> implements processor {
     public void proccessdata(Object o) {
-        ObjectMapper jsonMapper = new ObjectMapper();
-        File jsonFileLocation = new File((String) o);
+        ObjectMapper jsonMapper = new ObjectMapper(new YAMLFactory());
+        File yamlFileLocation  = new File((String) o);
 
         try {
-            MainObject book = jsonMapper.readValue(jsonFileLocation,MainObject.class);
-            System.out.println(book.getBook().getAuthor());
+            Book book = jsonMapper.readValue(yamlFileLocation,Book.class);
+            System.out.println(book.getAuthor());
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -28,8 +27,8 @@ public class JsonProcessor implements processor {
     }
 
     public static void main(String[] args) {
-        JsonProcessor processor = new JsonProcessor();
-        processor.proccessdata(Location.resource+"/json/book.json");
+        YamlProcessor processor1 = new YamlProcessor();
+        processor1.proccessdata(Location.resource+"/yaml/book.yaml");
 
     }
 }

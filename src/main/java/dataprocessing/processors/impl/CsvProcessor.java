@@ -2,25 +2,25 @@ package dataprocessing.processors.impl;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import dataprocessing.beans.Book;
-import dataprocessing.beans.MainObject;
 import dataprocessing.processor;
+import com.fasterxml.jackson.dataformat.csv.CsvFactory;
 import dataprocessing.reusables.Location;
 
 import java.io.File;
 import java.io.IOException;
 
-public class JsonProcessor implements processor {
-
+public class CsvProcessor<T> implements processor {
     public void proccessdata(Object o) {
-        ObjectMapper jsonMapper = new ObjectMapper();
-        File jsonFileLocation = new File((String) o);
+        File csvFileLocation = new File((String) o);
+        ObjectMapper csvMapper = new ObjectMapper(new CsvFactory());
 
         try {
-            MainObject book = jsonMapper.readValue(jsonFileLocation,MainObject.class);
-            System.out.println(book.getBook().getAuthor());
+            Book book = csvMapper.readValue(csvFileLocation,Book.class);
+            System.out.println(book.getAuthor());
         } catch (IOException e) {
             e.printStackTrace();
         }
+
     }
 
     public Object process(Object o) {
@@ -28,8 +28,8 @@ public class JsonProcessor implements processor {
     }
 
     public static void main(String[] args) {
-        JsonProcessor processor = new JsonProcessor();
-        processor.proccessdata(Location.resource+"/json/book.json");
+        CsvProcessor processor = new CsvProcessor();
+        processor.proccessdata(Location.resource+"/csv/book.csv");
 
     }
 }
