@@ -1,6 +1,9 @@
 package dataprocessing.processors.impl;
 
+import com.fasterxml.jackson.databind.MappingIterator;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.dataformat.csv.CsvMapper;
+import com.fasterxml.jackson.dataformat.csv.CsvParser;
 import dataprocessing.beans.Book;
 import dataprocessing.processor;
 import com.fasterxml.jackson.dataformat.csv.CsvFactory;
@@ -11,12 +14,22 @@ import java.io.IOException;
 
 public class CsvProcessor<T> implements processor {
     public void proccessdata(Object o) {
-        File csvFileLocation = new File((String) o);
+        CsvMapper mapper = new CsvMapper();
+        mapper.enable(CsvParser.Feature.WRAP_AS_ARRAY);
+        File csvFile = new File((String) o); // or from String, URL etc
+
         ObjectMapper csvMapper = new ObjectMapper(new CsvFactory());
 
         try {
-            Book book = csvMapper.readValue(csvFileLocation,Book.class);
-            System.out.println(book.getAuthor());
+            MappingIterator<String[]> it = mapper.readerFor(String[].class).readValues(csvFile);
+            while (it.hasNext()) {
+                String[] row = it.next();
+                // and voila, column values in an array. Works with Lists as well
+                System.out.println(row[1]);
+            }
+
+            //Book book = csvMapper.readValue(csvFileLocation,Book.class);
+            //System.out.println(book.getAuthor());
         } catch (IOException e) {
             e.printStackTrace();
         }
