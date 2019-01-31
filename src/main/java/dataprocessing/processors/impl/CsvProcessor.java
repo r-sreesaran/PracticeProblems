@@ -40,6 +40,10 @@ public class CsvProcessor<T> implements processor {
         return null;
     }
 
+    public void getData() {
+
+    }
+
     public static void main(String[] args) {
         CsvProcessor processor = new CsvProcessor();
         processor.proccessdata(Location.resource+"/csv/book.csv");

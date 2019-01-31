@@ -27,6 +27,10 @@ public class JsonProcessor implements processor {
         return null;
     }
 
+    public void getData() {
+
+    }
+
     public static void main(String[] args) {
         JsonProcessor processor = new JsonProcessor();
         processor.proccessdata(Location.resource+"/json/book.json");

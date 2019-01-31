@@ -26,6 +26,10 @@ public class YamlProcessor<T> implements processor {
         return null;
     }
 
+    public void getData() {
+
+    }
+
     public static void main(String[] args) {
         YamlProcessor processor1 = new YamlProcessor();
         processor1.proccessdata(Location.resource+"/yaml/book.yaml");

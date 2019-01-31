@@ -29,6 +29,10 @@ public class XmlProcessor<T> implements processor
         return null;
     }
 
+    public void getData() {
+
+    }
+
     public static void main(String[] args) {
         XmlProcessor processor = new XmlProcessor();
         processor.proccessdata(Location.resource+"/xml/data.xml");
