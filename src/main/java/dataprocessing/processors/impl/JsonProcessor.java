@@ -27,6 +27,9 @@ public class JsonProcessor implements processor {
         return null;
     }
 
+    /**
+     * return get data
+     */
     public void getData() {
 
     }
