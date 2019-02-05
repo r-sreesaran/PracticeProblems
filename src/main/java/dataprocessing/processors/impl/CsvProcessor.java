@@ -16,8 +16,7 @@ public class CsvProcessor<T> implements processor {
     public void proccessdata(Object o) {
         CsvMapper mapper = new CsvMapper();
         mapper.enable(CsvParser.Feature.WRAP_AS_ARRAY);
-        File csvFile = new File((String) o); // or from String, URL etc
-
+        File csvFile = new File((String) o);
         ObjectMapper csvMapper = new ObjectMapper(new CsvFactory());
 
         try {
