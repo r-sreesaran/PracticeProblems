@@ -1,7 +1,7 @@
 t = int(input())
 for k in range(0,t):
     n = int(input())
-    values = list(map(int,input()))
+    values = list(map(int,input().split(" ")))
     i=0
     for i in range(n-2,0,-1):
         if values[i]<values[i+1]:
@@ -18,6 +18,5 @@ for k in range(0,t):
 
     values[j-1], values[i] = values[i], values[j-1]
     values = values[0:i+1] + sorted(values[i + 1:])
-    print(values)
-
+    print("".join(str(x) for x in values))
 
