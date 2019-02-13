@@ -22,8 +22,12 @@ while flag:
     n = int(input())
     if(n!=0):
         cars = list(int(input()))
-        for i in cars:
-            if()
+        for i in range(1,len(cars)-2):
+            if(cars[i]<cars[i+1]):
+
+            else:
+
+
 
 
     else:
