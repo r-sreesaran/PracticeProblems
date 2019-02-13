@@ -20,3 +20,4 @@ for k in range(0,t):
     values = values[0:i+1] + sorted(values[i + 1:])
     print("".join(str(x) for x in values))
 
+
