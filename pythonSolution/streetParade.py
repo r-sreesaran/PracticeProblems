@@ -1,6 +1,8 @@
 '''
 10
-6 1 5 2 7 3 4 10 8 9
+
+
+
 no
 5
 1 3 4 2 5
@@ -15,22 +17,32 @@ no
 5
 3 1 2 5 4
 yes
+5
+5 1 2 4 3
+0
 '''
 
-flag=True
-while flag:
-    n = int(input())
-    if(n!=0):
-        cars = list(int(input()))
-        for i in range(1,len(cars)-2):
-            if(cars[i]<cars[i+1]):
-
-            else:
-
-
-
-
+lane=[];
+state=True
+need = 1
+size = int(input())
+if(size!=0):
+    order = list(map(int,input().split(" ")))
+    for i in range(size):
+        while not lane and lane[-1] == need:
+            need+=1
+            lane.pop()
+        if(order[i]==need):
+            need=+1
+        elif not lane and lane[-1]<order[i]:
+            state = False
+            break
+        else:
+            lane.append(order[i])
+    if(state):
+       print ("yes")
     else:
-        flag = False
+       print ("no")
+
 
 
