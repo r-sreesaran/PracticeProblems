@@ -1,6 +1,12 @@
 '''
 10
 
+5
+3 1 2 5 4
+5
+3 1 2 5 4
+0
+
 
 
 no
@@ -25,16 +31,18 @@ yes
 lane=[];
 state=True
 need = 1
-size = int(input())
-if(size!=0):
+
+while True:
+ size = int(input())
+ if(size!=0):
     order = list(map(int,input().split(" ")))
     for i in range(size):
-        while not lane and lane[-1] == need:
+        while not (not lane) and lane[-1] == need:
             need+=1
             lane.pop()
         if(order[i]==need):
             need=+1
-        elif not lane and lane[-1]<order[i]:
+        elif not (not lane) and lane[-1]<order[i]:
             state = False
             break
         else:
@@ -43,6 +51,7 @@ if(size!=0):
        print ("yes")
     else:
        print ("no")
-
+ else:
+    break
 
 
