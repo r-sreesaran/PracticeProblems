@@ -10,11 +10,11 @@ for i in range(0,tc):
    exchange = False
    break;
 
-  if(exchange):
+ if(exchange):
    print("no")
-  else:
-    newlist = number(0,i)
-    newlist.append(number(i,len-1).sort())
+ else:
+    newlist = number[0:i]
+    newlist.append(sorted(number[i:len]))
     print(newlist)
 
 
