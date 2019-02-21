@@ -58,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pythonSolution/streetParade.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -77,9 +77,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>int</find>
+      <find>lane</find>
+      <find>need</find>
     </findStrings>
     <replaceStrings>
       <replace>BigInteger</replace>
+      <replace>st</replace>
+      <replace>n</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -423,6 +427,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2635659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -433,7 +438,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32650602" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39759037" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -451,7 +456,7 @@
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32875606" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2635659" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2635659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -486,17 +491,6 @@
     <MESSAGE value="changed csv file" />
     <MESSAGE value="convert bean to data format." />
     <option name="LAST_COMMIT_MESSAGE" value="convert bean to data format." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/pythonSolution/streetParade.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -643,8 +637,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/streetParade.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
