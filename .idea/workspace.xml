@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="convert bean to data format.">
-      <change afterPath="$PROJECT_DIR$/pythonSolution/spoj/pattern3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/pattern2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/pattern2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/HalfOfHalf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/HalfOfHalf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/Pattern1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/Pattern1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/pattern2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/pattern3.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern3.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,19 +60,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/pattern3.py">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="39" selection-start-column="39" selection-end-column="39" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/pattern2.py">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="90">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -154,6 +157,8 @@
         <option value="$PROJECT_DIR$/pythonSolution/spoj/Pattern1.py" />
         <option value="$PROJECT_DIR$/pythonSolution/spoj/pattern2.py" />
         <option value="$PROJECT_DIR$/pythonSolution/spoj/pattern3.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern3.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py" />
       </list>
     </option>
   </component>
@@ -204,6 +209,13 @@
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
               <item name="spoj" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="spoj" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -234,6 +246,9 @@
       <recent name="dataprocessing.processors.impl" />
       <recent name="main.java.threads" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pythonSolution/spoj/basics" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -247,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pattern3">
+  <component name="RunManager" selected="Python.pattern4">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -321,28 +336,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/HalfOfHalf.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Interactive" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodeChefPracticeProblems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/spoj" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/Interactive.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/basics/HalfOfHalf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,7 +357,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/Pattern1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/basics/Pattern1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,7 +378,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/pattern2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -405,7 +399,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/pattern3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pattern4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodeChefPracticeProblems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/spoj/basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,11 +431,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pattern4" />
         <item itemvalue="Python.pattern3" />
         <item itemvalue="Python.pattern2" />
         <item itemvalue="Python.Pattern1" />
         <item itemvalue="Python.HalfOfHalf" />
-        <item itemvalue="Python.Interactive" />
       </list>
     </recent_temporary>
   </component>
@@ -756,13 +771,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/HalfOfHalf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/TESTINT.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -770,27 +778,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/Pattern1.py">
+    <entry file="file://$PROJECT_DIR$/pythonSolution/Forgotton Language.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/Pattern1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/Forgotton Language.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/HalfOfHalf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/pattern2.py">
+    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/pattern3.py">
+    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        <state relative-caret-position="90">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
