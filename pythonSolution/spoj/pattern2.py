@@ -1,4 +1,3 @@
-#https://www.spoj.com/problems/CPTTRN2/
 
 t=int(input())
 for i in range(t):
