@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="convert bean to data format.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/HalfOfHalf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/HalfOfHalf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/Pattern1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/Pattern1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/pattern2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/pattern3.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -511,7 +506,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2635659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -521,8 +515,8 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32650602" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32650602" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39759037" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -575,6 +569,17 @@
     <MESSAGE value="changed csv file" />
     <MESSAGE value="convert bean to data format." />
     <option name="LAST_COMMIT_MESSAGE" value="convert bean to data format." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -812,7 +817,7 @@
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
