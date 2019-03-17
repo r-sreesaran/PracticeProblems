@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="convert bean to data format.">
-      <change afterPath="$PROJECT_DIR$/pythonSolution/algorithms/quicksort.py" afterDir="false" />
+    <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
+      <change afterPath="$PROJECT_DIR$/pythonSolution/epi/DutchNationalFlagProblem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern5.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern5.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,13 +60,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/quicksort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="510">
+              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/epi/DutchNationalFlagProblem.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -153,6 +157,7 @@
         <option value="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern3.py" />
         <option value="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern4.py" />
         <option value="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern5.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/epi/DutchNationalFlagProblem.py" />
         <option value="$PROJECT_DIR$/pythonSolution/algorithms/quicksort.py" />
       </list>
     </option>
@@ -197,6 +202,12 @@
               <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pattern5">
+  <component name="RunManager" selected="Python.quicksort">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -305,27 +316,6 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration name="Pattern1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodeChefPracticeProblems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/spoj" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/basics/Pattern1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="pattern2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeChefPracticeProblems" />
@@ -411,13 +401,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodeChefPracticeProblems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/algorithms/quicksort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.quicksort" />
         <item itemvalue="Python.pattern5" />
         <item itemvalue="Python.pattern3" />
         <item itemvalue="Python.pattern4" />
         <item itemvalue="Python.pattern2" />
-        <item itemvalue="Python.Pattern1" />
       </list>
     </recent_temporary>
   </component>
@@ -488,14 +499,21 @@
       <option name="project" value="LOCAL" />
       <updated>1549045288763</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added solution to quick sort">
+      <created>1551846362210</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1551846362210</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2635659" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2635659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -556,7 +574,8 @@
     <MESSAGE value="implemented csv parser" />
     <MESSAGE value="changed csv file" />
     <MESSAGE value="convert bean to data format." />
-    <option name="LAST_COMMIT_MESSAGE" value="convert bean to data format." />
+    <MESSAGE value="added solution to quick sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="added solution to quick sort" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -811,10 +830,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/quicksort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="510">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/epi/DutchNationalFlagProblem.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
