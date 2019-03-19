@@ -1,5 +1,5 @@
 
-def sort(pivot_index: int, A: List[int]) -> None:
+def sort(pivot_index: int, A: list) -> None:
     pivot = A[pivot_index]
     smaller, equal, larger = 0,0,len(A)
     while equal<larger:
