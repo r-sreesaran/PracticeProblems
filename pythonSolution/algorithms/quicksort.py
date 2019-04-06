@@ -5,13 +5,13 @@ def quickSort(alist):
     return quickSortHelper(alist, 0, len(alist) - 1)
 
 
-def quickSortHelper(alist : List[int],first: int,last: int) -> None:
+def quickSortHelper(alist,first,last):
      if first<last:
          splitpoint = partition(alist,first,last)
          quickSortHelper(alist,first,splitpoint-1)
          quickSortHelper(alist,splitpoint+1,last)
 
-def partition(alist : List[int],first: int,last: int) -> None:
+def partition(alist,first,last):
     partitionValue = alist[first]
 
     done=False
