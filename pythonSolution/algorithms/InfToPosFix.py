@@ -8,6 +8,6 @@
 
 def InfxToPostFix():
     expression = list(map,input("Enter the expression"))
-    for element in expression:
+    #for element in expression:
 
 

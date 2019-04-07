@@ -1,17 +1,18 @@
 
 
-
 def quickSort(alist):
-    return quickSortHelper(alist, 0, len(alist) - 1)
+    quickSortHelper(alist, 0, len(alist) - 1)
+    return 0
 
 
-def quickSortHelper(alist,first: int,last: int) -> None:
+def quickSortHelper(alist,first,last):
      if first<last:
          splitpoint = partition(alist,first,last)
          quickSortHelper(alist,first,splitpoint-1)
          quickSortHelper(alist,splitpoint+1,last)
+     return 0;     
 
-def partition(alist,first: int,last: int) -> None:
+def partition(alist,first,last):
     partitionValue = alist[first]
 
     done=False
@@ -31,6 +32,11 @@ def partition(alist,first: int,last: int) -> None:
     alist[first],alist[rightmark]=alist[rightmark],alist[first]
     return rightmark
 
-alist = [54, 26, 78, 17, 77, 48, 55, 31, 20]
+         
+t=int(input())
+alist=[]
+for i in range(t):
+     alist.append(int(input()))
 quickSort(alist)
-print(alist)
+for i in range(len(alist)): 
+        print(alist[i])
