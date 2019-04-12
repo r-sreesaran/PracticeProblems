@@ -4,14 +4,17 @@ for i in range(t):
     n = int(input())
     values = list(map(int,input().split(" ")))
     values.sort(reverse=True)
-    while i<len(values)-2 and count < 2:
-        if(values[i]==values[i+1]):
-           area = area*values[i]
-           i=i+2
+    j=0
+    count=0
+    area=1
+    while j<len(values)-1 and count < 2:
+        if(values[j]==values[j+1]):
+           area = area*values[j]
+           j=j+2
            count=count+1   
         else:
-            i=i+1 
+            j=j+1 
     if(count<2):
-        print -1 
+        print(-1) 
     else:
-        print(area) 
+        print(area)
