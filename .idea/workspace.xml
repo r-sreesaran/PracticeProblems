@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
-      <change beforePath="$PROJECT_DIR$/pythonSolution/codechef/rectangleCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/codechef/rectangleCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/epi/multiplyintegers.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/epi/multiplyintegers.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,7 +54,17 @@
     <ui_properties converted="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/epi/multiplyintegers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -140,6 +151,7 @@
         <option value="$PROJECT_DIR$/pythonSolution/epi/DutchNationalFlagProblem.py" />
         <option value="$PROJECT_DIR$/pythonSolution/algorithms/InfToPosFix.py" />
         <option value="$PROJECT_DIR$/pythonSolution/codechef/rectangleCalculator.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/epi/multiplyintegers.py" />
       </list>
     </option>
   </component>
@@ -171,6 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,13 +200,12 @@
               <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="codechef" type="462c0819:PsiDirectoryNode" />
+              <item name="epi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -236,7 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rectangleCalculator">
+  <component name="RunManager" selected="Python.multiplyintegers">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -319,7 +331,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pattern3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="multiplyintegers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,11 +339,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/spoj" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/epi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/basics/pattern3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/epi/multiplyintegers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -405,11 +417,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multiplyintegers" />
         <item itemvalue="Python.rectangleCalculator" />
         <item itemvalue="Python.DutchNationalFlagProblem" />
         <item itemvalue="Python.quicksort" />
         <item itemvalue="Python.pattern5" />
-        <item itemvalue="Python.pattern3" />
       </list>
     </recent_temporary>
   </component>
@@ -499,6 +511,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2635659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -509,7 +522,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32409638" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39759037" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -568,47 +581,52 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>sizes.count(j)</expression-string>
+        <expression-string>[i for i, x in enumerate(result) if x !=0]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sizes.count()</expression-string>
+        <expression-string>i for i, x in enumerate(result) if x !=0</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>h</expression-string>
+        <expression-string>[i for i, x in enumerate(result) if x !=0 ]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>k</expression-string>
+        <expression-string>(i for i, x in enumerate(result) if x !=0 )</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>k%h==0</expression-string>
+        <expression-string>next(i for i, x in enumerate(result) if x !=0 )</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>k%h==0 or j%w==0</expression-string>
+        <expression-string>numera(i for i, x in enumerate(result) if x !=0 )</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sorted(number[i:len-1])</expression-string>
+        <expression-string>result[6:]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>number[i:len-1].sort()</expression-string>
+        <expression-string>result[8:]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>number[0:i]</expression-string>
+        <expression-string>result[:]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result[0:]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -754,20 +772,8 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/pythonSolution/NextGreatestNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/streetParade.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/NextGreatestNumber.py" />
+    <entry file="file://$PROJECT_DIR$/pythonSolution/streetParade.py" />
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/TESTINT.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -775,9 +781,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/Forgotton Language.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/Forgotton Language.py" />
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/Pattern1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -843,6 +847,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern5.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/epi/multiplyintegers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
