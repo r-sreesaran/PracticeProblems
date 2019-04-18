@@ -14,11 +14,14 @@ def operandvalue(operand)->int:
         return 5
     if(operand=='('):
         return 6
-    
-expression = list(input())
 
 
-for c in  expression:
+t = int(input())
+for t in range(t):
+ expression = list(input())
+
+
+ for c in  expression:
     if(c not in operands):
       print(c,end="")
     elif(c is '('):
@@ -29,7 +32,6 @@ for c in  expression:
              print(postfix.pop(),end="")
            else:
              postfix.pop()
-             #print(postfix.pop())
              break
     else:
         if not postfix:
@@ -41,4 +43,4 @@ for c in  expression:
         else:
             postfix.append(c)
 
-print()
+ print()
