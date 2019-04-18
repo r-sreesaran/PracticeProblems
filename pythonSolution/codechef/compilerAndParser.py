@@ -15,9 +15,8 @@ for _ in range(n):
         if(open-close==0):
             pair=i+1
         elif(close>open):
-            print(0)
             break;    
 
-    print(temp)
+    print(pair)
 
     
