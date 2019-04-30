@@ -1,7 +1,8 @@
 t = int(input())
 for k in range(0,t):
     n = int(input())
-    values = list(map(int,input().split(" ")))
+    values = list(map(str,input().rstrip(" ").split(" ")))
+
     i=0
     for i in range(n-2,0,-1):
         if values[i]<values[i+1]:
