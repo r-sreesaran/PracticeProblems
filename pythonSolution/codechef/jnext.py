@@ -1,24 +1,18 @@
 t = int(input())
-for k in range(0,t):
-    n = int(input())
-    values = list(map(str,input().rstrip(" ").split(" ")))
-
-    i=0
-    for i in range(n-2,0,-1):
-        if values[i]<values[i+1]:
-           break
-
-    if (i == 0):
-        print(-1)
-        break
-
-    j=0
-    for j in range(i+1,n):
-        if (values[j] < values[i]):
-            break
-
-    values[j-1], values[i] = values[i], values[j-1]
-    values = values[0:i+1] + sorted(values[i + 1:])
-    print("".join(str(x) for x in values))
-
-
+for i in range(t) :
+   a = int(input())
+   val = list(map(int,input().rstrip().split(" ")))
+   nextval = -1
+   for j in reversed(a):
+       if(val[j-1]<val[j] and j>=1):
+           nextval = j
+           val[j-1],val[j]=val[j],val[j-1]
+           exit
+   if(nextval!=-1):
+    list1 = val[0:nextval+1]
+    list2 = val[nextval+1:a]
+    list2.sort()
+    no=list1+list2
+    print(no)
+   else:
+    print(-1)     
