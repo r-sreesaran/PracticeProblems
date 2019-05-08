@@ -1,6 +1,6 @@
 #https://www.spoj.com/problems/MMASS/
 
-m = list(map(str,input()))
+m = list(map(str,input().strip()))
 
 st = []
 for e in m:
