@@ -1,6 +1,7 @@
 #https://www.spoj.com/problems/MMASS/
 
-m = input().split(" ")
+m = list(map(str,input()))
+
 st = []
 for e in m:
     if(e=='('):
@@ -12,14 +13,14 @@ for e in m:
     elif(e=='O'):
         st.append(16)
     elif(e==')'):
-        sum =0
+        s =0
         while (st[-1]!=-1):
-            sum = sum + st.pop()
+            s = s + st.pop()
         st.pop()
-        st.append(sum)
-    elif(e>=2 and e<=9 ):
-        no = st[-1]
-        st.append(e*st.pop())
+        st.append(s)
+    elif(int(e)>=2 and int(e)<=9 ):
+        no = st.pop()
+        st.append(int(e)*no)
     
 print(sum(st))    
 
