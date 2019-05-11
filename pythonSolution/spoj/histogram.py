@@ -1,4 +1,6 @@
 #https://www.spoj.com/problems/HISTOGRA/
+#This solution takes o(n^2) running time
+
 
 n=[-1]
 while(n[0]!=0):
