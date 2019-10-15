@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/codechef/stacksAndQueue/jnext.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/codechef/stacksAndQueue/jnext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/stpar.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/stpar.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/stpar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="40" />
+            <state>
+              <caret column="37" selection-start-column="37" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -100,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/stacksAndQueue/jnext.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="228">
+              <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -112,7 +112,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
+            <state relative-caret-position="4620">
               <caret line="309" selection-start-line="309" selection-end-line="309" />
             </state>
           </provider>
@@ -204,7 +204,6 @@
         <option value="$PROJECT_DIR$/pythonSolution/codechef/rectangleCalculator.py" />
         <option value="$PROJECT_DIR$/pythonSolution/epi/multiplyintegers.py" />
         <option value="$PROJECT_DIR$/pythonSolution/codechef/chopSticks.py" />
-        <option value="$PROJECT_DIR$/pythonSolution/spoj/stpar.py" />
         <option value="$PROJECT_DIR$/pythonSolution/spoj/jnext.py" />
         <option value="$PROJECT_DIR$/pythonSolution/spoj/mmass.py" />
         <option value="$PROJECT_DIR$/pythonSolution/spoj/histo.py" />
@@ -212,6 +211,7 @@
         <option value="$PROJECT_DIR$/pythonSolution/codechef/Lapindromes.py" />
         <option value="$PROJECT_DIR$/pythonSolution/codechef/sample.py" />
         <option value="$PROJECT_DIR$/pythonSolution/codechef/stacksAndQueue/jnext.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/spoj/stpar.py" />
       </list>
     </option>
   </component>
@@ -233,8 +233,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="87" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="804" />
@@ -245,7 +244,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,6 +266,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -581,10 +580,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="87" y="23" width="1440" height="804" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2635659" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2635659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -593,11 +592,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32409638" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3974719" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3974719" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964765" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" visible="true" weight="0.2819277" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003524" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
@@ -937,13 +936,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/stpar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/countSubstring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -967,15 +959,22 @@
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
+        <state relative-caret-position="4620">
           <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/stacksAndQueue/jnext.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="228">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/stpar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
         </state>
       </provider>
     </entry>
