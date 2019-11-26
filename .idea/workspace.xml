@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
-      <change afterPath="$PROJECT_DIR$/pythonSolution/spoj/basics/permutations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/spoj/jnext.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/spoj/jnext.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,50 +54,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/permutations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world.py">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world_test.py">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="48" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="48" />
+              <caret line="9" column="61" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="61" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/histo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/histogram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -148,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/dataProcessing/Beans/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataProcessing/beans/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/beans/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interface/Interface1Impl.java" />
@@ -199,6 +168,7 @@
         <option value="$PROJECT_DIR$/pythonSolution/spoj/jnext.py" />
         <option value="$PROJECT_DIR$/pythonSolution/spoj/basics/permutations.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer.py" />
       </list>
     </option>
   </component>
@@ -261,7 +231,16 @@
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
               <item name="excercism" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="two-fer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="excercism" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="two-fer" type="462c0819:PsiDirectoryNode" />
+              <item name=".exercism" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -597,7 +576,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964765" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" visible="true" weight="0.2819277" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" visible="true" weight="0.45903614" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003524" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
@@ -672,21 +651,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processors/resources/json/book.json" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/interfaceChild.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/reusables/Location.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -963,6 +927,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/histo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -977,20 +958,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world_test.py">
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/.exercism/metadata.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="48" />
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="61" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world.py">
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
