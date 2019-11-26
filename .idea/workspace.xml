@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer.py" afterDir="false" />
-    </list>
+    <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,10 +53,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer.py">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="135">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-96">
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,7 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/dataProcessing/beans/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/beans/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interface/Interface1Impl.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interface/interface2.java" />
@@ -159,6 +165,7 @@
         <option value="$PROJECT_DIR$/pythonSolution/spoj/basics/permutations.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops.py" />
       </list>
     </option>
   </component>
@@ -206,22 +213,7 @@
               <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="excercism" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="excercism" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="excercism" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="two-fer" type="462c0819:PsiDirectoryNode" />
+              <item name="codechef" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -632,55 +624,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/reusables/Location.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Interface/interface2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/csv/book.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/XmlProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/CsvProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/YamlProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -887,13 +830,6 @@
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern5.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/jnext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/Interactive.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -952,10 +888,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/go/hello-world/hello_world_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/kotlin/hello-world/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2309" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/go/hello-world/hello_world.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/kotlin/hello-world/src/main/kotlin/HelloWorld.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/jnext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/streetParade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
