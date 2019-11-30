@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py" afterDir="false" />
-    </list>
+    <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,20 +52,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram_test.py">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="166">
+              <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -120,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Interface/interface2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interface/interface1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interface/interfaceChild.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interface/test.java" />
@@ -171,6 +178,7 @@
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram_test.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name.py" />
       </list>
     </option>
   </component>
@@ -234,7 +242,7 @@
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
               <item name="excercism" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="pangram" type="462c0819:PsiDirectoryNode" />
+              <item name="robot-name" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -260,7 +268,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -283,7 +291,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in pangram_test.py">
+  <component name="RunManager" selected="Python tests.Unittests for robot_name_test.RobotNameTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -344,27 +352,6 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration name="ANARC09A-Seinfeld" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodeChefPracticeProblems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/spoj" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/spoj/ANARC09A-Seinfeld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="jnext (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeChefPracticeProblems" />
@@ -429,25 +416,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for robot_name_test.RobotNameTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/codechef" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/robot-name" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/codechef/lapin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;robot_name_test.RobotNameTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for robot_name_test.RobotNameTest.test_has_name" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CodeChefPracticeProblems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/robot-name" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;robot_name_test.RobotNameTest.test_has_name&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in pangram_test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
@@ -466,20 +460,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ANARC09A-Seinfeld" />
       <item itemvalue="Python.jnext" />
       <item itemvalue="Python.jnext (1)" />
       <item itemvalue="Python.permutations" />
-      <item itemvalue="Python.sample" />
       <item itemvalue="Python tests.pytest in pangram_test.py" />
+      <item itemvalue="Python tests.Unittests for robot_name_test.RobotNameTest" />
+      <item itemvalue="Python tests.Unittests for robot_name_test.RobotNameTest.test_has_name" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for robot_name_test.RobotNameTest" />
+        <item itemvalue="Python tests.Unittests for robot_name_test.RobotNameTest.test_has_name" />
         <item itemvalue="Python.permutations" />
         <item itemvalue="Python.jnext (1)" />
         <item itemvalue="Python.jnext" />
-        <item itemvalue="Python.sample" />
-        <item itemvalue="Python.ANARC09A-Seinfeld" />
       </list>
     </recent_temporary>
   </component>
@@ -568,29 +562,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_pangram_test_py - 2019.11.28 at 10h 02m 42s.xml">
-      <configuration name="pytest in pangram_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_pangram_test_py - 2019.11.28 at 10h 04m 39s.xml">
-      <configuration name="pytest in pangram_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_pangram_test_py - 2019.11.29 at 23h 04m 27s.xml">
-      <configuration name="pytest in pangram_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_pangram_test_py - 2019.11.29 at 23h 16m 04s.xml">
-      <configuration name="pytest in pangram_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_pangram_test_py - 2019.11.29 at 23h 38m 46s.xml">
-      <configuration name="pytest in pangram_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_pangram_test_py - 2019.11.30 at 17h 28m 22s.xml">
-      <configuration name="pytest in pangram_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_pangram_test_py - 2019.11.30 at 17h 28m 48s.xml">
-      <configuration name="pytest in pangram_test.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_pangram_test_py - 2019.11.30 at 18h 02m 23s.xml">
       <configuration name="pytest in pangram_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_robot_name_test_RobotNameTest - 2019.12.01 at 00h 05m 22s.xml">
+      <configuration name="Unittests for robot_name_test.RobotNameTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_robot_name_test_RobotNameTest - 2019.12.01 at 00h 06m 00s.xml">
+      <configuration name="Unittests for robot_name_test.RobotNameTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_robot_name_test_RobotNameTest - 2019.12.01 at 00h 06m 34s.xml">
+      <configuration name="Unittests for robot_name_test.RobotNameTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_robot_name_test_RobotNameTest - 2019.12.01 at 01h 14m 32s.xml">
+      <configuration name="Unittests for robot_name_test.RobotNameTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_robot_name_test_RobotNameTest_test_has_name - 2019.12.01 at 01h 23m 35s.xml">
+      <configuration name="Unittests for robot_name_test.RobotNameTest.test_has_name" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_robot_name_test_RobotNameTest_test_has_name - 2019.12.01 at 01h 24m 17s.xml">
+      <configuration name="Unittests for robot_name_test.RobotNameTest.test_has_name" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_robot_name_test_RobotNameTest_test_has_name - 2019.12.01 at 01h 28m 36s.xml">
+      <configuration name="Unittests for robot_name_test.RobotNameTest.test_has_name" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_robot_name_test_RobotNameTest - 2019.12.01 at 01h 28m 44s.xml">
+      <configuration name="Unittests for robot_name_test.RobotNameTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_robot_name_test_RobotNameTest - 2019.12.01 at 01h 29m 11s.xml">
+      <configuration name="Unittests for robot_name_test.RobotNameTest" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -606,7 +606,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.2635659" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910873" weight="0.2635659" />
       <window_info id="Structure" order="1" sideWeight="0.50089127" side_tool="true" weight="0.2635659" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -632,6 +632,33 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32875606" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.2635659" />
+      <window_info id="Structure" order="1" sideWeight="0.50089127" side_tool="true" weight="0.2635659" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32409638" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39518073" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964765" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" visible="true" weight="0.45783132" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003524" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32875606" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Threading concept." />
@@ -646,6 +673,16 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Robot().name</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Robot()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>len(uniqueChar)</expression-string>
         <language-id>Python</language-id>
@@ -681,43 +718,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>sentence.split(&quot; &quot;)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>sentence.split(&quot; &quot;).split(&quot; &quot;)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/beans/MainObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataprocessing/beans/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/LittleElephantAndCandies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/json/book.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1002,8 +1005,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-638" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
