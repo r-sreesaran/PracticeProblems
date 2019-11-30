@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -67,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -119,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Interface/Interface1Impl.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interface/interface2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interface/interface1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interface/interfaceChild.java" />
@@ -169,6 +169,7 @@
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram_test.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py" />
       </list>
     </option>
@@ -202,7 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,6 +240,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -259,7 +260,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -282,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.permutations">
+  <component name="RunManager" selected="Python tests.pytest in pangram_test.py">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -582,6 +583,15 @@
     <history-entry file="pytest_in_pangram_test_py - 2019.11.29 at 23h 38m 46s.xml">
       <configuration name="pytest in pangram_test.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_pangram_test_py - 2019.11.30 at 17h 28m 22s.xml">
+      <configuration name="pytest in pangram_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_pangram_test_py - 2019.11.30 at 17h 28m 48s.xml">
+      <configuration name="pytest in pangram_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_pangram_test_py - 2019.11.30 at 18h 02m 23s.xml">
+      <configuration name="pytest in pangram_test.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -596,24 +606,24 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2635659" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.2635659" />
+      <window_info id="Structure" order="1" sideWeight="0.50089127" side_tool="true" weight="0.2635659" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32409638" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39518073" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32409638" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39518073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964765" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" weight="0.45783132" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003524" side_tool="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
-      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -634,19 +644,18 @@
     <MESSAGE value="added print statements" />
     <option name="LAST_COMMIT_MESSAGE" value="added print statements" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>len(uniqueChar)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(uniqueChar) &gt;=  35</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>len(set(splittedChar))</expression-string>
         <language-id>Python</language-id>
@@ -679,16 +688,6 @@
       </expression>
       <expression>
         <expression-string>sentence.split(&quot; &quot;).split(&quot; &quot;)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>sentence.split(&quot; &quot;).split(&quot;&quot;)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>print(permute)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -993,8 +992,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -1004,7 +1003,7 @@
     <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
         </state>
       </provider>
     </entry>
