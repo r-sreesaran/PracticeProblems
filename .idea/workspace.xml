@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,41 +54,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name.py">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/protein-translation/protein_translation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name_test.py">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/protein-translation/protein_translation_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="15" selection-start-column="7" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="61" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="61" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -140,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Interface/interfaceChild.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interface/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/resources/json/book.json" />
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/XmlProcessor.java" />
@@ -186,11 +162,12 @@
         <option value="$PROJECT_DIR$/pythonSolution/spoj/basics/permutations.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/two_fer.py" />
-        <option value="$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram_test.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name_test.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/excercism/python/protein-translation/protein_translation.py" />
       </list>
     </option>
   </component>
@@ -253,7 +230,7 @@
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
               <item name="excercism" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="two-fer" type="462c0819:PsiDirectoryNode" />
+              <item name="protein-translation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
@@ -575,7 +552,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553346560279</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added solution to rain drops problem">
+      <created>1575564772688</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575564772688</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -623,7 +607,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.2635659" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.2635659" />
       <window_info id="Structure" order="1" sideWeight="0.50089127" side_tool="true" weight="0.2635659" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -631,12 +615,12 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32409638" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32409638" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39518073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964765" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" weight="0.45783132" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" visible="true" weight="0.45783132" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003524" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
@@ -686,7 +670,8 @@
     <MESSAGE value="convert bean to data format." />
     <MESSAGE value="added solution to quick sort" />
     <MESSAGE value="added print statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="added print statements" />
+    <MESSAGE value="added solution to rain drops problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="added solution to rain drops problem" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -738,16 +723,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/json/book.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/TransformExpression.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/__init__.py" />
     <entry file="file://$PROJECT_DIR$/pythonSolution/NextGreatestNumber.py" />
     <entry file="file://$PROJECT_DIR$/pythonSolution/streetParade.py" />
@@ -984,13 +959,6 @@
         <state relative-caret-position="-141" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1018,10 +986,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/pangram/pangram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -1035,20 +1027,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name_test.py">
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/protein-translation/protein_translation_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="15" selection-start-column="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name.py">
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/protein-translation/protein_translation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
         </state>
       </provider>
     </entry>
