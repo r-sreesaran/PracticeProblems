@@ -1,11 +1,8 @@
 def convert(number):
     result = ""
-    if (number % 3 == 0):
-        result += "Pling"
-    if (number % 5 == 0):
-        result += "Plang"
-    if (number % 7 == 0):
-        result += "Plong"
-    if(number % 7 != 0 and number % 5 != 0 and number%3 != 0):
-        result = str(number)
+    names = [[3,'Pling'],[5,'Plang'],[7,'Plong']]
+    for no,name in names:
+        if not int(number) % no:
+            result += name
+    if result=="": return f'{number}'
     return result

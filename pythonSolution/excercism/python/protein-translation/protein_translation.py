@@ -2,22 +2,19 @@ from textwrap import wrap
 
 
 def proteins(strand):
-    proteinMap = {"Methionine": "AUG", "Phenylalanine": ["UUU", "UUC"], "Leucine": ["UUA", "UUG"],
-                  "Serine": ["UCU", "UCC", "UCA", "UCG"], "Tyrosine": ["UAU", "UAC"],
-                  "Cysteine": ["UGC", "UGU"], "Tryptophan": "UGG", "STOP": ["UAA", "UAG", "UGA"]
-                  }
-    items = wrap(strand, 3)
+    proteinMap = {'AUG': 'Methionine', 'UCU': 'Serine', 'UCC': 'Serine',
+             'UCA': 'Serine', 'UCG': 'Serine', 'UUA': 'Leucine', 'UUG': 'Leucine',
+             'UUU': 'Phenylalanine', 'UUC': 'Phenylalanine',
+             'UAU': 'Tyrosine', 'UAC': 'Tyrosine',
+             'UGU': 'Cysteine', 'UGC': 'Cysteine',
+             'UGG': 'Tryptophan',
+             'UAA': 'STOP', 'UAG': 'STOP', 'UGA': 'STOP'}
+
+    condons = wrap(strand, 3)
     proteinName = []
-    for el in items:
-        for protein, acronym in proteinMap.items():
-
-            if type(acronym) is str:
-                if acronym == el:
-                    proteinName.append(protein)
-
-            if type(acronym) is list:
-                 if el in acronym:
-                      if(protein=='STOP'): return proteinName
-                      proteinName.append(protein)
+    for condon in condons:
+        if condon in proteinMap.keys():
+             if proteinMap.get(condon) == 'STOP': return proteinName
+             proteinName.append(proteinMap.get(condon))
 
     return proteinName
