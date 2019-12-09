@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/excercism/python/high-scores/high_scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/excercism/python/high-scores/high_scores.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,40 +56,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/protein-translation/protein_translation.py">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/high-scores/high_scores.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+            <state relative-caret-position="180">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/textwrap.py">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/high-scores/high_scores_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5670">
-              <caret line="378" selection-start-line="378" selection-end-line="378" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/protein-translation/protein_translation_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1710">
-              <caret line="116" selection-start-line="116" selection-end-line="116" />
+            <state>
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9015">
-              <caret line="614" selection-start-line="614" selection-end-line="614" />
             </state>
           </provider>
         </entry>
@@ -137,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Interface/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/resources/json/book.json" />
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/XmlProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/reusables/Location.java" />
@@ -188,6 +169,7 @@
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/robot-name/robot_name.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/raindrops/raindrops.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/protein-translation/protein_translation.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/excercism/python/high-scores/high_scores.py" />
       </list>
     </option>
   </component>
@@ -219,7 +201,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,15 +232,7 @@
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
               <item name="excercism" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="protein-translation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="excercism" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="raindrops" type="462c0819:PsiDirectoryNode" />
+              <item name="high-scores" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
@@ -270,6 +243,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -320,7 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for protein_translation_test.ProteinTranslationTest.test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence">
+  <component name="RunManager" selected="Python tests.Unittests for high_scores_test.HighScoresTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -382,6 +356,48 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <configuration name="Unittests for high_scores_test.HighScoresTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CodeChefPracticeProblems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/high-scores" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;high_scores_test.HighScoresTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for high_scores_test.HighScoresTest.test_latest_score" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CodeChefPracticeProblems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/high-scores" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;high_scores_test.HighScoresTest.test_latest_score&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for high_scores_test.HighScoresTest.test_personal_best" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CodeChefPracticeProblems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/high-scores" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;high_scores_test.HighScoresTest.test_personal_best&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for protein_translation_test.ProteinTranslationTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -396,20 +412,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for protein_translation_test.ProteinTranslationTest.test_methionine_rna_sequence" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="CodeChefPracticeProblems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/protein-translation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;protein_translation_test.ProteinTranslationTest.test_methionine_rna_sequence&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unittests for protein_translation_test.ProteinTranslationTest.test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -421,34 +423,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;protein_translation_test.ProteinTranslationTest.test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for raindrops_test.RaindropsTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="CodeChefPracticeProblems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/raindrops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;raindrops_test.RaindropsTest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for raindrops_test.RaindropsTest.test_the_sound_for_1_is_1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="CodeChefPracticeProblems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/raindrops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;raindrops_test.RaindropsTest.test_the_sound_for_1_is_1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -470,18 +444,18 @@
     <list>
       <item itemvalue="Python tests.pytest in pangram_test.py" />
       <item itemvalue="Python tests.Unittests for protein_translation_test.ProteinTranslationTest" />
-      <item itemvalue="Python tests.Unittests for raindrops_test.RaindropsTest" />
-      <item itemvalue="Python tests.Unittests for raindrops_test.RaindropsTest.test_the_sound_for_1_is_1" />
-      <item itemvalue="Python tests.Unittests for protein_translation_test.ProteinTranslationTest.test_methionine_rna_sequence" />
       <item itemvalue="Python tests.Unittests for protein_translation_test.ProteinTranslationTest.test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence" />
+      <item itemvalue="Python tests.Unittests for high_scores_test.HighScoresTest" />
+      <item itemvalue="Python tests.Unittests for high_scores_test.HighScoresTest.test_latest_score" />
+      <item itemvalue="Python tests.Unittests for high_scores_test.HighScoresTest.test_personal_best" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for high_scores_test.HighScoresTest" />
+        <item itemvalue="Python tests.Unittests for high_scores_test.HighScoresTest.test_personal_best" />
+        <item itemvalue="Python tests.Unittests for high_scores_test.HighScoresTest.test_latest_score" />
         <item itemvalue="Python tests.Unittests for protein_translation_test.ProteinTranslationTest.test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence" />
         <item itemvalue="Python tests.Unittests for protein_translation_test.ProteinTranslationTest" />
-        <item itemvalue="Python tests.Unittests for protein_translation_test.ProteinTranslationTest.test_methionine_rna_sequence" />
-        <item itemvalue="Python tests.Unittests for raindrops_test.RaindropsTest" />
-        <item itemvalue="Python tests.Unittests for raindrops_test.RaindropsTest.test_the_sound_for_1_is_1" />
       </list>
     </recent_temporary>
   </component>
@@ -577,35 +551,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_raindrops_test_RaindropsTest - 2019.12.07 at 16h 04m 37s.xml">
-      <configuration name="Unittests for raindrops_test.RaindropsTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_raindrops_test_RaindropsTest - 2019.12.07 at 17h 31m 38s.xml">
-      <configuration name="Unittests for raindrops_test.RaindropsTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_protein_translation_test_ProteinTranslationTest - 2019.12.07 at 17h 31m 52s.xml">
-      <configuration name="Unittests for protein_translation_test.ProteinTranslationTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_protein_translation_test_ProteinTranslationTest - 2019.12.07 at 17h 32m 44s.xml">
-      <configuration name="Unittests for protein_translation_test.ProteinTranslationTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_protein_translation_test_ProteinTranslationTest_test_methionine_rna_sequence - 2019.12.07 at 19h 43m 58s.xml">
-      <configuration name="Unittests for protein_translation_test.ProteinTranslationTest.test_methionine_rna_sequence" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_protein_translation_test_ProteinTranslationTest_test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence - 2019.12.07 at 19h 50m 55s.xml">
-      <configuration name="Unittests for protein_translation_test.ProteinTranslationTest.test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_protein_translation_test_ProteinTranslationTest_test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence - 2019.12.07 at 19h 51m 15s.xml">
-      <configuration name="Unittests for protein_translation_test.ProteinTranslationTest.test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_protein_translation_test_ProteinTranslationTest_test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence - 2019.12.07 at 19h 54m 09s.xml">
-      <configuration name="Unittests for protein_translation_test.ProteinTranslationTest.test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_protein_translation_test_ProteinTranslationTest_test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence - 2019.12.07 at 19h 54m 38s.xml">
-      <configuration name="Unittests for protein_translation_test.ProteinTranslationTest.test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_protein_translation_test_ProteinTranslationTest_test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence - 2019.12.07 at 22h 06m 20s.xml">
       <configuration name="Unittests for protein_translation_test.ProteinTranslationTest.test_translation_stops_if_stop_codon_in_middle_of_three_codon_sequence" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_high_scores_test_HighScoresTest - 2019.12.09 at 23h 40m 56s.xml">
+      <configuration name="Unittests for high_scores_test.HighScoresTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_high_scores_test_HighScoresTest_test_latest_score - 2019.12.09 at 23h 41m 12s.xml">
+      <configuration name="Unittests for high_scores_test.HighScoresTest.test_latest_score" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_high_scores_test_HighScoresTest_test_latest_score - 2019.12.09 at 23h 43m 59s.xml">
+      <configuration name="Unittests for high_scores_test.HighScoresTest.test_latest_score" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_high_scores_test_HighScoresTest_test_latest_score - 2019.12.09 at 23h 44m 41s.xml">
+      <configuration name="Unittests for high_scores_test.HighScoresTest.test_latest_score" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_high_scores_test_HighScoresTest - 2019.12.09 at 23h 44m 46s.xml">
+      <configuration name="Unittests for high_scores_test.HighScoresTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_high_scores_test_HighScoresTest - 2019.12.09 at 23h 53m 10s.xml">
+      <configuration name="Unittests for high_scores_test.HighScoresTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_high_scores_test_HighScoresTest_test_personal_best - 2019.12.09 at 23h 53m 22s.xml">
+      <configuration name="Unittests for high_scores_test.HighScoresTest.test_personal_best" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_high_scores_test_HighScoresTest_test_personal_best - 2019.12.09 at 23h 53m 59s.xml">
+      <configuration name="Unittests for high_scores_test.HighScoresTest.test_personal_best" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_high_scores_test_HighScoresTest - 2019.12.09 at 23h 54m 04s.xml">
+      <configuration name="Unittests for high_scores_test.HighScoresTest" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -619,6 +593,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.2635659" />
       <window_info id="Structure" order="1" sideWeight="0.50089127" side_tool="true" weight="0.2635659" />
@@ -628,16 +603,16 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32409638" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49964765" visible="true" weight="0.32409638" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49964765" weight="0.39518073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964765" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989429" weight="0.45783132" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010571" side_tool="true" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003524" side_tool="true" visible="true" weight="0.32409638" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="11" sideWeight="0.4989429" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4982382" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -746,14 +721,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythonSolution/streetParade.py" />
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/TESTINT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/Forgotton Language.py" />
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/Pattern1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1058,14 +1025,14 @@
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/textwrap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5670">
+        <state relative-caret-position="480">
           <caret line="378" selection-start-line="378" selection-end-line="378" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/protein-translation/protein_translation_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
+        <state relative-caret-position="480">
           <caret line="116" selection-start-line="116" selection-end-line="116" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -1075,8 +1042,24 @@
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9015">
+        <state relative-caret-position="480">
           <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/high-scores/high_scores_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/high-scores/high_scores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>
