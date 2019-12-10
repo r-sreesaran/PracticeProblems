@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
-      <change beforePath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" afterDir="false" />
-    </list>
+    <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/armstrong-numbers/armstrong_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -553,9 +551,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_armstrong_numbers_test_ArmstrongNumbersTest_test_zero_is_an_armstrong_number - 2019.12.10 at 08h 50m 50s.xml">
-      <configuration name="Unittests for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_armstrong_numbers_test_ArmstrongNumbersTest_test_zero_is_an_armstrong_number - 2019.12.10 at 08h 51m 13s.xml">
       <configuration name="Unittests for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" configurationId="tests" />
     </history-entry>
@@ -583,6 +578,9 @@
     <history-entry file="pytest_for_armstrong_numbers_test_ArmstrongNumbersTest - 2019.12.10 at 09h 05m 13s.xml">
       <configuration name="pytest for armstrong_numbers_test.ArmstrongNumbersTest" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_armstrong_numbers_test_ArmstrongNumbersTest - 2019.12.10 at 09h 28m 18s.xml">
+      <configuration name="pytest for armstrong_numbers_test.ArmstrongNumbersTest" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -605,13 +603,13 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989429" weight="0.32409638" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4982382" weight="0.32409638" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49964765" weight="0.39518073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4982382" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49682876" visible="true" weight="0.45783132" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50317127" side_tool="true" visible="true" weight="0.45783132" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49612403" visible="true" weight="0.45783132" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.503876" side_tool="true" visible="true" weight="0.45783132" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49964765" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4982382" weight="0.32891566" />
@@ -1042,8 +1040,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/armstrong-numbers/armstrong_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
