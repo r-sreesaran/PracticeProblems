@@ -52,20 +52,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/armstrong-numbers/armstrong_numbers.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/perfect-numbers/perfect_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="60">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/armstrong-numbers/armstrong_numbers_test.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/perfect-numbers/perfect_numbers_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="-109">
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -117,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/dataprocessing/reusables/Location.java" />
         <option value="$PROJECT_DIR$/src/main/resources/json/book.json" />
         <option value="$PROJECT_DIR$/src/main/java/dataprocessing/beans/MainObject.java" />
         <option value="$PROJECT_DIR$/src/main/resources/yaml/book.yaml" />
@@ -168,6 +166,7 @@
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/high-scores/high_scores.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/armstrong-numbers/armstrong_numbers_test.py" />
         <option value="$PROJECT_DIR$/pythonSolution/excercism/python/armstrong-numbers/armstrong_numbers.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/excercism/python/perfect-numbers/perfect_numbers.py" />
       </list>
     </option>
   </component>
@@ -230,7 +229,7 @@
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
               <item name="excercism" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="armstrong-numbers" type="462c0819:PsiDirectoryNode" />
+              <item name="perfect-numbers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
@@ -292,7 +291,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for armstrong_numbers_test.ArmstrongNumbersTest">
+  <component name="RunManager" selected="Python tests.pytest for perfect_numbers_test.AbundantNumbersTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -368,34 +367,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for high_scores_test.HighScoresTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="CodeChefPracticeProblems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/high-scores" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;high_scores_test.HighScoresTest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for high_scores_test.HighScoresTest.test_personal_best" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="CodeChefPracticeProblems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/high-scores" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;high_scores_test.HighScoresTest.test_personal_best&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest for armstrong_numbers_test.ArmstrongNumbersTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -426,6 +397,36 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for perfect_numbers_test.AbundantNumbersTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="CodeChefPracticeProblems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/perfect-numbers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;perfect_numbers_test.AbundantNumbersTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for perfect_numbers_test.PerfectNumbersTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="CodeChefPracticeProblems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/perfect-numbers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;perfect_numbers_test.PerfectNumbersTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest in pangram_test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -443,19 +444,19 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.pytest in pangram_test.py" />
-      <item itemvalue="Python tests.Unittests for high_scores_test.HighScoresTest" />
-      <item itemvalue="Python tests.Unittests for high_scores_test.HighScoresTest.test_personal_best" />
       <item itemvalue="Python tests.Unittests for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" />
       <item itemvalue="Python tests.pytest for armstrong_numbers_test.ArmstrongNumbersTest.test_single_digit_numbers_are_armstrong_numbers" />
       <item itemvalue="Python tests.pytest for armstrong_numbers_test.ArmstrongNumbersTest" />
+      <item itemvalue="Python tests.pytest for perfect_numbers_test.PerfectNumbersTest" />
+      <item itemvalue="Python tests.pytest for perfect_numbers_test.AbundantNumbersTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for perfect_numbers_test.AbundantNumbersTest" />
+        <item itemvalue="Python tests.pytest for perfect_numbers_test.PerfectNumbersTest" />
         <item itemvalue="Python tests.pytest for armstrong_numbers_test.ArmstrongNumbersTest" />
         <item itemvalue="Python tests.pytest for armstrong_numbers_test.ArmstrongNumbersTest.test_single_digit_numbers_are_armstrong_numbers" />
         <item itemvalue="Python tests.Unittests for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" />
-        <item itemvalue="Python tests.Unittests for high_scores_test.HighScoresTest" />
-        <item itemvalue="Python tests.Unittests for high_scores_test.HighScoresTest.test_personal_best" />
       </list>
     </recent_temporary>
   </component>
@@ -551,24 +552,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_armstrong_numbers_test_ArmstrongNumbersTest_test_zero_is_an_armstrong_number - 2019.12.10 at 08h 51m 13s.xml">
-      <configuration name="Unittests for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_armstrong_numbers_test_ArmstrongNumbersTest_test_zero_is_an_armstrong_number - 2019.12.10 at 08h 51m 31s.xml">
-      <configuration name="Unittests for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_armstrong_numbers_test_ArmstrongNumbersTest_test_zero_is_an_armstrong_number - 2019.12.10 at 08h 51m 47s.xml">
-      <configuration name="Unittests for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_armstrong_numbers_test_ArmstrongNumbersTest_test_zero_is_an_armstrong_number - 2019.12.10 at 08h 52m 11s.xml">
-      <configuration name="Unittests for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_armstrong_numbers_test_ArmstrongNumbersTest_test_zero_is_an_armstrong_number - 2019.12.10 at 08h 57m 26s.xml">
-      <configuration name="Unittests for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_armstrong_numbers_test_ArmstrongNumbersTest_test_single_digit_numbers_are_armstrong_numbers - 2019.12.10 at 08h 57m 42s.xml">
-      <configuration name="pytest for armstrong_numbers_test.ArmstrongNumbersTest.test_single_digit_numbers_are_armstrong_numbers" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_armstrong_numbers_test_ArmstrongNumbersTest - 2019.12.10 at 08h 57m 46s.xml">
       <configuration name="pytest for armstrong_numbers_test.ArmstrongNumbersTest" configurationId="tests" />
     </history-entry>
@@ -580,6 +563,24 @@
     </history-entry>
     <history-entry file="pytest_for_armstrong_numbers_test_ArmstrongNumbersTest - 2019.12.10 at 09h 28m 18s.xml">
       <configuration name="pytest for armstrong_numbers_test.ArmstrongNumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_perfect_numbers_test_PerfectNumbersTest - 2019.12.11 at 09h 58m 16s.xml">
+      <configuration name="pytest for perfect_numbers_test.PerfectNumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_perfect_numbers_test_PerfectNumbersTest - 2019.12.11 at 10h 02m 02s.xml">
+      <configuration name="pytest for perfect_numbers_test.PerfectNumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_perfect_numbers_test_AbundantNumbersTest - 2019.12.11 at 10h 02m 07s.xml">
+      <configuration name="pytest for perfect_numbers_test.AbundantNumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_perfect_numbers_test_AbundantNumbersTest - 2019.12.11 at 10h 02m 29s.xml">
+      <configuration name="pytest for perfect_numbers_test.AbundantNumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_perfect_numbers_test_AbundantNumbersTest - 2019.12.11 at 10h 04m 19s.xml">
+      <configuration name="pytest for perfect_numbers_test.AbundantNumbersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_perfect_numbers_test_AbundantNumbersTest - 2019.12.11 at 10h 05m 09s.xml">
+      <configuration name="pytest for perfect_numbers_test.AbundantNumbersTest" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -593,7 +594,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.2635659" />
       <window_info id="Structure" order="1" sideWeight="0.50089127" side_tool="true" weight="0.2635659" />
@@ -603,16 +603,16 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4982382" weight="0.32409638" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49682876" weight="0.32409638" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49964765" weight="0.39518073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4982382" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49612403" visible="true" weight="0.45783132" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.503876" side_tool="true" visible="true" weight="0.45783132" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49541932" weight="0.45783132" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50317127" side_tool="true" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49964765" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4982382" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="11" sideWeight="0.49682876" visible="true" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -694,20 +694,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/HalfOfHalf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1042,6 +1028,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/perfect-numbers/perfect_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/perfect-numbers/perfect_numbers_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
