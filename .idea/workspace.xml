@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
-      <change afterPath="$PROJECT_DIR$/pythonSolution/Leetcode/ransonNote.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSolution/excercism/python/perfect-numbers/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSolution/excercism/python/perfect-numbers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSolution/excercism/python/perfect-numbers/perfect_numbers_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/Leetcode/ransonNote.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/Leetcode/ransonNote.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pythonSolution/Leetcode/ransonNote.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="62" lean-forward="true" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+            <state relative-caret-position="105">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -591,8 +587,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4982382" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4926004" weight="0.45783132" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.503876" side_tool="true" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4918957" weight="0.45783132" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5081043" side_tool="true" weight="0.45783132" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49964765" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
       <window_info active="true" anchor="bottom" id="Python Console" order="11" sideWeight="0.49612403" visible="true" weight="0.32891566" />
@@ -1027,8 +1023,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/Leetcode/ransonNote.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="62" lean-forward="true" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+        <state relative-caret-position="105">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>

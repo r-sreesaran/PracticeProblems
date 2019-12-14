@@ -1,6 +1,8 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        rasonNoteSet =  ''.join(ransomNote.split(" "))
-        magazineSet = ''.join(magazine.split(" "))
-        return all(item in magazineSet for item in ransomNote)
-
+        for i in ransomNote:
+          if i not in magazine:
+             return False
+          else:
+            magazine =  magazine.replace(i,'',1)
+        return True
