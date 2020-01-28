@@ -1,14 +1,14 @@
 import unittest
 
-from pythonSolution.algorithms.dynamicProgramming.src.LadderClimbing import probhelper
+from pythonSolution.algorithms.dynamicProgramming.src.LadderClimbing import prob
 
 
 class LadderClimberTest(unittest.TestCase):
 
    def test1(self):
-        self.assertIs(probhelper(3), 3)
+        self.assertIs(prob(3), 3)
    def test2(self):
-        self.assertIs(probhelper(5), 2)
+        self.assertIs(prob(5), 8)
 
 
 if __name__ == '__main__':

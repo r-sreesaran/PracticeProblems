@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
-      <change afterPath="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimbing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test/LadderClimberTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimbing.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimbing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test/LadderClimberTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test/LadderClimberTest.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimbing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -87,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test/LadderClimberTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -674,15 +673,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test_zero_is_an_armstrong_number - 2020.01.28 at 22h 59m 20s.xml">
-      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test_zero_is_an_armstrong_number" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test_zero_is_an_armstrong_number - 2020.01.28 at 22h 59m 28s.xml">
-      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test_zero_is_an_armstrong_number" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test2 - 2020.01.28 at 23h 00m 50s.xml">
-      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test2" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test1 - 2020.01.28 at 23h 01m 09s.xml">
       <configuration name="pytest for LadderClimberTest.LadderClimberTest.test1" configurationId="tests" />
     </history-entry>
@@ -703,6 +693,15 @@
     </history-entry>
     <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test2 - 2020.01.28 at 23h 12m 13s.xml">
       <configuration name="pytest for LadderClimberTest.LadderClimberTest.test2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test2 - 2020.01.28 at 23h 48m 31s.xml">
+      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test2 - 2020.01.28 at 23h 48m 39s.xml">
+      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test1 - 2020.01.28 at 23h 48m 55s.xml">
+      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test1" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -1177,7 +1176,7 @@
     <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test/LadderClimberTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -1186,8 +1185,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimbing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
