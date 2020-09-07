@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
-      <change beforePath="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimbing.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimbing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test/LadderClimberTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test/LadderClimberTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,67 +54,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/misc/test/testCheckStringPalindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="69" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/misc/solutions/palindromeWordChecker.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimbing.py">
+        <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/coin_flip.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test/LadderClimberTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/armstrong-numbers/armstrong_numbers_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="10" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/cops.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/quicksort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -164,15 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/XmlProcessor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/CsvProcessor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataprocessing/processors/impl/JsonProcessor.java" />
-        <option value="$PROJECT_DIR$/pythonSolution/streetParade.py" />
-        <option value="$PROJECT_DIR$/pythonSolution/NextGreatestNumber.py" />
-        <option value="$PROJECT_DIR$/pythonSolution/spoj/TransformExpression.py" />
-        <option value="$PROJECT_DIR$/pythonSolution/spoj/Interactive.py" />
-        <option value="$PROJECT_DIR$/pythonSolution/spoj/TESTINT.py" />
-        <option value="$PROJECT_DIR$/pythonSolution/spoj/HalfOfHalf.py" />
         <option value="$PROJECT_DIR$/pythonSolution/spoj/Pattern1.py" />
         <option value="$PROJECT_DIR$/pythonSolution/spoj/pattern2.py" />
         <option value="$PROJECT_DIR$/pythonSolution/spoj/pattern3.py" />
@@ -215,6 +149,15 @@
         <option value="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimberTest.py" />
         <option value="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test/LadderClimberTest.py" />
         <option value="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimbing.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/UniverseAndEverything.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/Reverse The number.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/lapindrome.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/ZonalComputingOlympaid.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/SmartPhone.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/carvans.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/Factorial.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/coinFlip.py" />
+        <option value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/coin_flip.py" />
       </list>
     </option>
   </component>
@@ -246,7 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,87 +205,28 @@
               <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
               <item name="codechef" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="epi" type="462c0819:PsiDirectoryNode" />
+              <item name="codechef" type="462c0819:PsiDirectoryNode" />
+              <item name="DSALearningSeries" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
               <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="excercism" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="excercism" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="excercism" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="armstrong-numbers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeChefPracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeChefPracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="codechef" type="462c0819:PsiDirectoryNode" />
+              <item name="DSALearningSeries" type="462c0819:PsiDirectoryNode" />
+              <item name="complexityAnalysisAndWarmup" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -397,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for LadderClimberTest.LadderClimberTest.test2">
+  <component name="RunManager" selected="Python.Factorial">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -459,79 +342,109 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <configuration name="pytest for LadderClimberTest.LadderClimberTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;LadderClimberTest.LadderClimberTest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/Factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for LadderClimberTest.LadderClimberTest.test1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="Reverse The number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;LadderClimberTest.LadderClimberTest.test1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/Reverse The number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for LadderClimberTest.LadderClimberTest.test2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="SmartPhone" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;LadderClimberTest.LadderClimberTest.test2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/SmartPhone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for LadderClimberTest.LadderClimberTest.test_zero_is_an_armstrong_number" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="carvans" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;LadderClimberTest.LadderClimberTest.test_zero_is_an_armstrong_number&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/carvans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="lapindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/excercism/python/armstrong-numbers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/lapindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in pangram_test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
@@ -550,20 +463,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Reverse The number" />
+      <item itemvalue="Python.lapindrome" />
+      <item itemvalue="Python.SmartPhone" />
+      <item itemvalue="Python.carvans" />
       <item itemvalue="Python tests.pytest in pangram_test.py" />
-      <item itemvalue="Python tests.pytest for LadderClimberTest.LadderClimberTest" />
-      <item itemvalue="Python tests.pytest for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" />
-      <item itemvalue="Python tests.pytest for LadderClimberTest.LadderClimberTest.test_zero_is_an_armstrong_number" />
-      <item itemvalue="Python tests.pytest for LadderClimberTest.LadderClimberTest.test2" />
-      <item itemvalue="Python tests.pytest for LadderClimberTest.LadderClimberTest.test1" />
+      <item itemvalue="Python.Factorial" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for LadderClimberTest.LadderClimberTest.test2" />
-        <item itemvalue="Python tests.pytest for LadderClimberTest.LadderClimberTest.test1" />
-        <item itemvalue="Python tests.pytest for LadderClimberTest.LadderClimberTest.test_zero_is_an_armstrong_number" />
-        <item itemvalue="Python tests.pytest for armstrong_numbers_test.ArmstrongNumbersTest.test_zero_is_an_armstrong_number" />
-        <item itemvalue="Python tests.pytest for LadderClimberTest.LadderClimberTest" />
+        <item itemvalue="Python.Factorial" />
+        <item itemvalue="Python.carvans" />
+        <item itemvalue="Python.SmartPhone" />
+        <item itemvalue="Python.lapindrome" />
+        <item itemvalue="Python.Reverse The number" />
       </list>
     </recent_temporary>
   </component>
@@ -669,19 +582,80 @@
       <option name="project" value="LOCAL" />
       <updated>1578334418687</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added solution">
+      <created>1593320414597</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1593320414597</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added solution reverse number">
+      <created>1593802712392</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1593802712392</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added solution to lapindrome">
+      <created>1593886158882</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1593886158882</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added solution">
+      <created>1593925346345</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1593925346345</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added solution">
+      <created>1593968056105</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1593968056105</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Factorial using memorization">
+      <created>1594653584244</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1594653584245</updated>
+    </task>
+    <task id="LOCAL-00020" summary="factorial using memorization">
+      <created>1594660096324</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1594660096324</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added method to print the no of zeros">
+      <created>1594663030928</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1594663030928</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added solution to factorial problem">
+      <created>1594738085349</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1594738085349</updated>
+    </task>
+    <task id="LOCAL-00023" summary="coin flip problem">
+      <created>1594748150488</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1594748150488</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test1 - 2020.01.28 at 23h 01m 09s.xml">
-      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test1" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test1 - 2020.01.28 at 23h 05m 22s.xml">
-      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test1" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test1 - 2020.01.28 at 23h 06m 08s.xml">
-      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test1" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test1 - 2020.01.28 at 23h 08m 12s.xml">
       <configuration name="pytest for LadderClimberTest.LadderClimberTest.test1" configurationId="tests" />
     </history-entry>
@@ -703,6 +677,15 @@
     <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test1 - 2020.01.28 at 23h 48m 55s.xml">
       <configuration name="pytest for LadderClimberTest.LadderClimberTest.test1" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test1 - 2020.01.28 at 23h 49m 10s.xml">
+      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test2 - 2020.01.28 at 23h 49m 14s.xml">
+      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_LadderClimberTest_LadderClimberTest_test2 - 2020.06.28 at 09h 37m 49s.xml">
+      <configuration name="pytest for LadderClimberTest.LadderClimberTest.test2" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -717,7 +700,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.2635659" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.2635659" />
       <window_info id="Structure" order="1" sideWeight="0.50089127" side_tool="true" weight="0.2635659" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -725,16 +708,16 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49541932" visible="true" weight="0.32409638" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989429" weight="0.39518073" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49541932" weight="0.32289156" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989429" weight="0.3927711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4982382" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4918957" weight="0.45783132" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4918957" weight="0.4566265" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5081043" side_tool="true" weight="0.45783132" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49964765" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49964765" weight="0.32771084" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49612403" weight="0.32891566" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49612403" weight="0.32771084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -793,9 +776,75 @@
     <MESSAGE value="added solution to rain drops problem" />
     <MESSAGE value="added solution to perfect numbers" />
     <MESSAGE value="added solutions for find the permutations of a string in o(n) run time" />
-    <option name="LAST_COMMIT_MESSAGE" value="added solutions for find the permutations of a string in o(n) run time" />
+    <MESSAGE value="added solution reverse number" />
+    <MESSAGE value="added solution to lapindrome" />
+    <MESSAGE value="added solution" />
+    <MESSAGE value="Factorial using memorization" />
+    <MESSAGE value="factorial using memorization" />
+    <MESSAGE value="added method to print the no of zeros" />
+    <MESSAGE value="added solution to factorial problem" />
+    <MESSAGE value="coin flip problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="coin flip problem" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>int(int(no) // int(10))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>no = no/10</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>no/10</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(fact_values)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fact_values[9]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>range(1:20)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>range[1:20]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(cars_speed)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>range[1:len(cars_speed)]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="evaluateExpression">
       <expression>
         <expression-string>takewhile(is_not_stop(),wrap(strand,3))</expression-string>
@@ -845,107 +894,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/stpar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/chopSticks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/countSubstring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/ANARC09A-Seinfeld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/stacksAndQueue/jnext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/pattern5.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/Interactive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/basics/permutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/hello-world/hello_world_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/histo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/spoj/histogram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/two-fer/.exercism/metadata.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/go/hello-world/hello_world_test.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/kotlin/hello-world/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2309" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/go/hello-world/hello_world.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1130,17 +1078,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/quicksort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/dynamicprogramming/minimumStepsToOne.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/cops.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/bubblesort.py">
@@ -1149,20 +1087,17 @@
     <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/InfToPosFix.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/misc/test/testCheckStringPalindrome.py">
+    <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/quicksort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="69" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="87" />
+        <state relative-caret-position="465">
+          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/armstrong-numbers/armstrong_numbers_test.py">
+    <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimbing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="10" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -1173,20 +1108,125 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/misc/test/testCheckStringPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="69" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test/LadderClimberTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="210">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src/LadderClimbing.py">
+    <entry file="file://$PROJECT_DIR$/pythonSolution/excercism/python/armstrong-numbers/armstrong_numbers_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="10" selection-start-line="8" selection-start-column="4" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/ChefAndNoteBooks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/compilerAndParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/UniverseAndEverything.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/Forgotton Language.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/lapin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/LittleElephantAndCandies.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/MergeSortProblem.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/MinimumNumberOfMoves.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/NextGreatestNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/cops.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/Reverse The number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/SmartPhone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/Factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/lapindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/carvans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonSolution/codechef/DSALearningSeries/complexityAnalysisAndWarmup/coin_flip.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
