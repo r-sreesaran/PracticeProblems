@@ -2,8 +2,8 @@ import java.util.Map;
 import java.util.LinkedHashMap;
 
 class ResistorColor {
-     Map<String,Integer> map = new LinkedHashMap<>();
-       public ResistorColor() {
+    static Map<String,Integer> map = new LinkedHashMap<>();
+       static {
               map.put("black",0);
               map.put("brown",1);
               map.put("red",2);
@@ -21,9 +21,6 @@ class ResistorColor {
     }
 
     String[] colors() {
-        
-         String[]  colors =  map.keySet().toArray(new String[map.size()]);
-         
-         return colors; 
+        return map.keySet().toArray(new String[map.size()]); 
     }
 }
