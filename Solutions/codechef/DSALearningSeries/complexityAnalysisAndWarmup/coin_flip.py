@@ -27,9 +27,9 @@ for t in range(testcases):
         if N%2==0:
             print(int(N/2))
         else:
-            if I==1:
-                print(int(N/2) if Q==1 else int(N/2+1))
+            if I==Q:
+                print(int(N/2))
             else:
-                print(int(N/2)+1 if Q==1 else int(N/2))
+                print(int(N/2)+1)
 
 
