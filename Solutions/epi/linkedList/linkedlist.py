@@ -19,14 +19,14 @@ def merge_two_sorted_lists(L1: ListNode, L2: ListNode) -> ListNode:
     return dummy_head.next
 
 
-d1 = ListNode(1)
-d2 = ListNode(2,d1)
-d3 = ListNode(3,d2)
-d4 = ListNode(4,d3)
-d5 = ListNode(5,d4)
-d6 = ListNode(6,d5)
-d7 = ListNode(7,d5)
-d8 = ListNode(8,d5)
+d8 = ListNode(8)
+d7 = ListNode(7,d8)
+d6 = ListNode(6,d7)
+d5 = ListNode(5,d6)
+d4 = ListNode(4,d5)
+d3 = ListNode(3,d4)
+d2 = ListNode(2,d3)
+d1 = ListNode(1,d2)
 
 
 
@@ -52,8 +52,12 @@ def reverse_sublist(L:ListNode, start:int, finish: int) -> ListNode:
     sublist_iter = sublist_head.next
     for _ in range(finish-start):
         temp = sublist_iter.next
-        sublist_iter.next,temp.next,sublist_head.next = (temp.next,sublist_head.next,sublist_iter.next)
+        sublist_iter.next,temp.next,sublist_head.next = (temp.next,sublist_iter,sublist_iter.next)
 
     return dummy_head.next
 
 
+m = reverse_sublist(d1,3,6)
+while (m.next!=None):
+    print(m.data)
+    m =  m.next
