@@ -19,16 +19,41 @@ def merge_two_sorted_lists(L1: ListNode, L2: ListNode) -> ListNode:
     return dummy_head.next
 
 
-d1 = ListNode(10)
-d2 = ListNode(7,d1)
-d3 = ListNode(1,d2)
+d1 = ListNode(1)
+d2 = ListNode(2,d1)
+d3 = ListNode(3,d2)
+d4 = ListNode(4,d3)
+d5 = ListNode(5,d4)
+d6 = ListNode(6,d5)
+d7 = ListNode(7,d5)
+d8 = ListNode(8,d5)
 
-t1 = ListNode(9)
-t2 = ListNode(6,t1)
-t3 = ListNode(4,t2)
+
+
+t1 = ListNode(14)
+t2 = ListNode(15,t1)
+t3 = ListNode(16,t2)
 
 m = merge_two_sorted_lists(d3,t3)
 
 while (m.next!=None):
     print(m.data)
     m =  m.next
+
+# reverse linked list of specific region
+
+def reverse_sublist(L:ListNode, start:int, finish: int) -> ListNode:
+    dummy_head = sublist_head = ListNode(0,L)
+    for _ in range(1,start):
+        sublist_head = sublist_head.next
+
+    # Reverse sublist
+
+    sublist_iter = sublist_head.next
+    for _ in range(finish-start):
+        temp = sublist_iter.next
+        sublist_iter.next,temp.next,sublist_head.next = (temp.next,sublist_head.next,sublist_iter.next)
+
+    return dummy_head.next
+
+
