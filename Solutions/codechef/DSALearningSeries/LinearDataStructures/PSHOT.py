@@ -14,21 +14,22 @@ for _ in range(t):
     for i in range(0,n*2,2):
         #combinations.append((goals[i],goals[i+1]))
 
+
+
         if goals[i]==1:
             sa +=1
-            ra = ra - 1
+        ra = ra - 1
 
-        if sa - sb > rb:
+        if sa - sb > rb or sb - sa > ra :
             print(i + 1)
             break
 
         if goals[i+1]==1:
             sb+=1
-            rb =rb -1
+        rb =rb -1
 
 
-
-        if sb - sa > ra:
+        if sb - sa > ra or sa - sb > rb:
             print((i + 2))
             break
 
