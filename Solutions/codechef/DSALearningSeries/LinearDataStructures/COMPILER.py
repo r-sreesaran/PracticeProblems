@@ -63,3 +63,27 @@ for _ in range(t):
       print(0)
     else:
         print(maincount)
+
+# Better solution
+
+# cook your dish here
+t = int(input())
+#<><<<><><><<<><>><<<>><>><
+
+for i in range(t):
+    s = input()
+    su = 0
+    ans = 0
+    count = 0
+    for c in s:
+        if c == "<":
+            su+=1
+        else:
+            su-=1
+            if su==0:
+                ans=count+1
+            elif su<0:
+                break
+        count+=1
+    print(ans)
+
