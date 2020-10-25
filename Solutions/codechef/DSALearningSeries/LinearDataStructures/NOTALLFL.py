@@ -18,25 +18,36 @@ for _ in range(t):
     cakes_frequency_list.append((prev_cake, cake_count))
 
     prev = cakes_frequency_list[0]
-    next_pointer = 1
+    next_pointer = 0
 
-    count = prev[1]
+    count = 0
+    #count = prev[1]
     cakes_types = []
-    cakes_types.append(prev[0])
+    # cakes_types.append(prev[0])
     max_count = count;
+    prev_pointer = 0
+    prev_continue = True
 
-    while next_pointer<len(cakes_frequency_list)-1:
-        next = cakes_frequency_list[next_pointer]
-        next_pointer +=1
+    while next_pointer<len(cakes_frequency_list) and prev_pointer <len(cakes_frequency_list):
 
-        if(len(cakes_types)<k):
-            count+=next[1]
+        if(prev_continue==True):
+          next = cakes_frequency_list[next_pointer]
+          cakes_types.append(next[0])
+          count += next[1]
+
+        if(len(set(cakes_types))<k):
             if(count>max_count):
                 max_count=count
-            cakes_types.append(next[0])
+            prev_continue = True
+
         else:
             count -= prev[1]
             cakes_types.pop(0)
-            prev = next
+            prev_pointer+=1
+            prev = cakes_frequency_list[prev_pointer]
+            next_pointer -=1
+            prev_continue = False
+
+        next_pointer += 1
 
     print(max_count)
