@@ -88,3 +88,22 @@ for _ in range(t):
             l+=1
     print(maxv)
 
+
+# ------------------
+# 1
+# 9 3
+# 1|2|2|2|2|2|2|3|3|
+# ------------------
+#
+# The following is the input and output here must be 8,
+# The longest subsequence can contain length of max of two different flavours of cake
+# To calculate this, we iterate over the list, so its basically takes time just O(n)
+# But to do this there should be two pointers one referring to the lowest starting element and another to the current location
+# l and r are used as locaters.
+# count is a array that will store the maximum value of each and every element
+# As we move to the next element, the max no of flavours selected might be affected.
+# Due to which the nflav will become equal to k
+# using which we can run a while loop to remove the elements from list
+# And since l is pointing to the starting element we can subtract it from value saved in count array
+# the difference of l and r at any point will give maximum length.
+# using this we can get the maximum subsequence.
