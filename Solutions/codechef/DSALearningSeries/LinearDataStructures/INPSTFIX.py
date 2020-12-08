@@ -14,26 +14,17 @@ def infix_to_postfix(t:int,inexpression,n:int):
             if operand in character:
                 str += operand
 
-            elif operand!='(' and operand!=')':
-
-                if precedence.get(operand) > evaluvator(stack):
-                    stack.append(operand)
-                else:
-                    while True:
-                        str += stack.pop()
-                        if (len(stack) == 0):
-                            break
-                        if stack[-1] != '(' :
-                            break
-                        if precedence.get(operand) > precedence.get(stack[-1]):
-                            break
-                    stack.append(operand)
-            if operand == '(':
+            elif operand == '(':
                 stack.append('(')
-            if operand == ')':
+            elif operand == ')':
                 while len(stack) > 0 and stack[-1] != '(':
                     str += stack.pop()
                 stack.pop()
+
+            else:
+                    while len(stack) != 0 and stack[-1] != '(' and  precedence.get(stack[-1]) >= precedence.get(operand):
+                        str += stack.pop()
+                    stack.append(operand)
 
 
         while (len(stack) > 0):
