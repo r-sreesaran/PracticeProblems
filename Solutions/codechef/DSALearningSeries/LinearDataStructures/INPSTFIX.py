@@ -16,7 +16,7 @@ def infix_to_postfix(t:int,inexpression,n:int):
 
             elif operand!='(' and operand!=')':
 
-                if precedence.get(operand) >= evaluvator(stack):
+                if precedence.get(operand) > evaluvator(stack):
                     stack.append(operand)
                 else:
                     while True:
@@ -25,7 +25,7 @@ def infix_to_postfix(t:int,inexpression,n:int):
                             break
                         if stack[-1] != '(' :
                             break
-                        if precedence.get(operand) >= precedence.get(stack[-1]):
+                        if precedence.get(operand) > precedence.get(stack[-1]):
                             break
                     stack.append(operand)
             if operand == '(':

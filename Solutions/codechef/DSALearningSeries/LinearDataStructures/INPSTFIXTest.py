@@ -13,18 +13,26 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(infix_to_postfix(1,"(A+B)",5), "AB+")
 
     def test_something3(self):
-        self.assertEqual(infix_to_postfix(1,"A+B+C",5), "ABC++")
+        self.assertEqual(infix_to_postfix(1,"A+B+C",5), "AB+C+")
 
     def test_something4(self):
         self.assertEqual(infix_to_postfix(1, "A*B+C", 5), "AB*C+")
+
 
     def test_something5(self):
         self.assertEqual(infix_to_postfix(1, "(A+B)*C", 5), "AB+C*")
 
 
     def test_something6(self):
-        self.assertEqual(infix_to_postfix(1, "(A+B/(D^E))*C", 11), "AB+DE^/C*")
+        self.assertEqual(infix_to_postfix(1, "(A+B/(D^E))*C", 13), "ABDE^/+C*")
 
+    def test7(self):
+        self.assertEqual(infix_to_postfix(1,"((A*B)+(C/D))",13),"AB*CD/+".strip())
+
+
+
+    def test9(self):
+        self.assertEqual(infix_to_postfix(1,"A+B-C",13),"AB+C-".strip())
 
 if __name__ == '__main__':
     unittest.main()
