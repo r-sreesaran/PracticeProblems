@@ -9,18 +9,15 @@ def infix_to_postfix(t:int,inexpression,n:int):
         infix_expression = inexpression
         stack = []
         str = ''
-        expression = []
-        for operand in infix_expression:
+        for operand in infix_expression[0:n]:
             if operand in character:
                 str += operand
-
             elif operand == '(':
                 stack.append('(')
             elif operand == ')':
                 while len(stack) > 0 and stack[-1] != '(':
                     str += stack.pop()
                 stack.pop()
-
             else:
                     while len(stack) != 0 and stack[-1] != '(' and  precedence.get(stack[-1]) >= precedence.get(operand):
                         str += stack.pop()
