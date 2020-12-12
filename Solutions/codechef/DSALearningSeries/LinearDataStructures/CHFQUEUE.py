@@ -1,38 +1,34 @@
 # https://www.codechef.com/LRNDSA02/problems/CHFQUEUE
 
-# n = 5000
-# k = 2
-# arr = []
-# for i in range(5000):
-#     if(i%2==0):
-#         arr.append(1)
-#     else:
-#         arr.append(2)
-
+# o(n^2) solution brute force
 n,k = map(int,input().split(" "))
+# The running time of the program exceeds due to type conversion from str to integer
+# Need to understand how the types are getting converted.
 arr = list(input().split(" "))
+
 product =1
 for i in range(n):
     for j in range(i+1,n):
         if(arr[i]>arr[j]):
           product *= (j-i+1)
-          product %= 1000000007
+          product %=  1000000007
           break
 print(product)
 
+# o(n) solution
+stack = []
+product = 1
+index = []
+mod=10**9+7
+for i in range(n):
+    while len(stack)!=0 and stack[-1]> arr[i]:
+        product *=  (i+1-index.pop()+1)
+        product %=  mod
+        stack.pop()
 
-#n, k = map(int, input().split())
-# arr = list(map(int, input().split()))
+    stack.append(arr[i])
+    index.append(i+1)
+print(product)
 
-# chf = []
-# prod = 1
-#
-# n = 1
-# for i in arr:
-#     while len(chf)>0 and chf[-1][0]>i:
-#         val,ind=chf.pop()
-#         prod*=n-ind+1
-#         prod%=1000000007
-#     chf.append((i,n))
-#     n += 1
-# print(prod%1000000007)
+
+
