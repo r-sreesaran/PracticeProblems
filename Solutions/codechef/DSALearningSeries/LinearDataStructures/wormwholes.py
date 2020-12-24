@@ -32,16 +32,20 @@ for i in range(n):
 print(min_time)
 
 #Binary search
-def find_nearpoint(time,wormwholes,len_wormwholes):
+def find_nearpoint(time,wormwholes,len_wormwholes,start_wormhole=False):
     start = 0
     end = len_wormwholes-1
-    mid = start + end / 2
-    if(time<=wormwholes[mid]):
+    mid = start + (end-start)/ 2
+
+    while start<end:
+      if(time<=wormwholes[mid]):
         end = mid
-    else:
+      else:
         start = mid+1
+      mid = start + (end-start)/2
 
-
+    if start_wormhole:
+        return
 
 # print(n,x,y)
 # print(contest)
