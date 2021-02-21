@@ -1,4 +1,5 @@
 #https://www.codechef.com/LRNDSA02/problems/ZCO15004
+# video tutorial is https://www.youtube.com/watch?v=XC8PHFDuVD0&list=PLi0ZM-RCX5nsjTRrJVndL0jdJkIhKvGOJ&index=4&ab_channel=CodeChef
 
 no_of_points  = int(input())
 
