@@ -5,43 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/LongestSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/PathSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/TriangleBottomUp2DMatrixApproach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/SudokoSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_csv_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_csv_2_9_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_3_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interface/interface1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interface/interface1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interface/interface2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interface/interface2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interface/interfaceChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interface/interfaceChild.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interface/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interface/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrays/LittleElephantAndCandies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataprocessing/beans/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataprocessing/beans/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataprocessing/beans/MainObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataprocessing/beans/MainObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataprocessing/processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataprocessing/processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataprocessing/processors/impl/CsvProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataprocessing/processors/impl/CsvProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataprocessing/processors/impl/JsonProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataprocessing/processors/impl/JsonProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataprocessing/processors/impl/XmlProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataprocessing/processors/impl/XmlProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataprocessing/processors/impl/YamlProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataprocessing/processors/impl/YamlProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataprocessing/reusables/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataprocessing/reusables/Location.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threads/Threads.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -619,46 +583,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="added comments" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1639448713397">
+    <state x="450" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1651118353276">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1639448713397" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1639448713396">
+    <state x="450" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1651118353276" />
+    <state x="517" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1651162769089">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1639448713396" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1639448713395">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1639448713395" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1639448713396">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1639448713396" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1635565417551">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1635565417551" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1635565417550">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1635565417550" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1635565417549">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1635565417549" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1635565417550">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1635565417550" />
-    <state x="421" y="159" width="598" height="582" key="find.popup" timestamp="1634307314067">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="421" y="159" width="598" height="582" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1634307314067" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1639231727644">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1639231727644" />
+    <state x="517" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1651162769089" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
