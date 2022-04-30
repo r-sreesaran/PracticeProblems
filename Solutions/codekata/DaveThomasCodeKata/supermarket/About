@@ -31,4 +31,27 @@ Bill -> Products
 
 User
 
+Each item is a product
+   The product class will represent all types of available product the store sells
+   Tom what will happen if a new field is introduced in the product ?.
+   get the details from db
+   The database schema will be present for products be entered, so how do i introduce a new field.
+   how value will be populated to new field.
+   can the schema be altered ?.
+     If yes
+      what value will be populated to exsisting product items
+     If no
+      how will this value be entered and captured
+
+Principles to consider
+  - KISS
+
+
+
+
 How will the model classes be generated ?.
+Bill class _
+  Name
+  phone number
+  address
+  products
