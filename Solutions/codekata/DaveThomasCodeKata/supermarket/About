@@ -51,7 +51,26 @@ Principles to consider
 
 How will the model classes be generated ?.
 Bill class _
+  person class
+  product sale class
+  total value
+
+Person class :
   Name
-  phone number
+  Phone number
   address
-  products
+
+IProduct :
+ Name
+ tax
+ cost
+ total cost
+
+Product class Implements Iproduct:
+
+Product info extends Products
+Product sale extends Products
+   No of items
+
+
+Next steps represent all the details in class diagram, sequence diagram.
