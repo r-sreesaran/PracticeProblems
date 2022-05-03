@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08e9fc45-20ad-4090-9fb1-67ad34d7707b" name="Default" comment="added solution to quick sort">
+      <change afterPath="$PROJECT_DIR$/src/main/java/stratergy/BillingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stratergy/CustomerBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stratergy/StrategyPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeChefPracticeProblems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/codekata/DaveThomasCodeKata/supermarket/About" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/codekata/DaveThomasCodeKata/supermarket/About" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +96,8 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
@@ -106,14 +111,16 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="dataprocessing.processors.impl" />
       <recent name="main.java.threads" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/Solutions/" />
+      <recent name="$PROJECT_DIR$/Solutions/patterns" />
       <recent name="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/test" />
       <recent name="$PROJECT_DIR$/pythonSolution/algorithms/dynamicProgramming/src" />
-      <recent name="$PROJECT_DIR$/pythonSolution/misc/solutions" />
-      <recent name="$PROJECT_DIR$/pythonSolution/spoj/basics" />
     </key>
   </component>
   <component name="RunManager" selected="Python.lapindrome">
@@ -161,13 +168,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.LongestSubString" />
+    <configuration name="StrategyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stratergy.StrategyPattern" />
       <module name="CodeChefPracticeProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
+          <option name="PATTERN" value="stratergy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,7 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in pangram_test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+    <configuration name="pytest in /Users/sree/Documents/projects/github/PracticeProblems/pythonSolution/excercism/python/pangram/pangram_test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="CodeChefPracticeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,7 +265,7 @@
     <list>
       <item itemvalue="Python.lapindrome" />
       <item itemvalue="Python.wormwholes" />
-      <item itemvalue="Python tests.pytest in pangram_test.py" />
+      <item itemvalue="Python tests.pytest in /Users/sree/Documents/projects/github/PracticeProblems/pythonSolution/excercism/python/pangram/pangram_test.py" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -535,15 +542,6 @@
     <option name="localTasksCounter" value="38" />
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
       <list>
@@ -583,14 +581,36 @@
     <option name="LAST_COMMIT_MESSAGE" value="added comments" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="208" y="31" key="#Project_Structure" timestamp="1651570448657">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1651570448657" />
+    <state x="208" y="23" key="#Project_Structure/0.23.1440.806@0.23.1440.806" timestamp="1651570322626" />
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651570178860">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1651569637669" />
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.806@0.23.1440.806" timestamp="1651570178860" />
     <state x="450" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1651118353276">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="450" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1651118353276" />
+    <state x="288" y="357" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1651570214617">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="288" y="357" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.806@0.23.1440.806" timestamp="1651570214617" />
+    <state x="490" y="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1651570216603">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="490" y="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.806@0.23.1440.806" timestamp="1651570216603" />
     <state x="517" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1651162769089">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="517" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1651162769089" />
+    <state x="88" y="62" key="new project wizard" timestamp="1651570465756">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="88" y="62" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1651570465755" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
@@ -687,93 +707,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-compiler</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>CodeChefPracticeProblems</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

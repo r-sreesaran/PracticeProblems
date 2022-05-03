@@ -74,3 +74,19 @@ Product sale extends Products
 
 
 Next steps represent all the details in class diagram, sequence diagram.
+
+UML diagram notation
+ relationship between classes
+  - Association : Indicate that instances of one model element are connected to instances of another model element
+  - Inheritance
+  - realization : Indicate that one model element provides a specification that another model element implements
+  - dependency : Indicate that a change to one model element can affect another model element
+  - aggregation :
+  - composition :
+
+  https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/
+  https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/
+
+
+
+
